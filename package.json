@@ -1,0 +1,24 @@
+{
+  "name": "reacteu-api",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "^1.2.1",
+    "babyparse": "^0.4.3",
+    "cors": "^2.7.1",
+    "create-hash": "^1.1.1",
+    "create-hmac": "^1.1.3",
+    "dotenv": "^1.2.0",
+    "keystone": "^0.3.12",
+    "typeforce": "^1.1.2",
+    "underscore": "^1.8.3"
+  },
+  "engines": {
+    "node": ">=0.10.22",
+    "npm": ">=1.3.14"
+  },
+  "scripts": {
+    "start": "node keystone.js"
+  },
+  "main": "keystone.js"
+}
