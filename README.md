@@ -1,7 +1,8 @@
-# reacteu-api
+# ReactEU API Server
 
-ReactEurope KeystoneJS API Server
+ReactEurope [KeystoneJS](http://keystonejs.com) API Server
 
+Full Instructions and documentation coming as soon as we can publish them after the conference :)
 
 ### Instructions
 
@@ -13,3 +14,7 @@ cd reacteu-api
 npm install
 npm start
 ```
+
+## License
+
+Copyright (c) 2015 Thinkmill. Made available under The MIT License (MIT).
